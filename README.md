@@ -1,11 +1,11 @@
 About Me : 
-# Lead React Frontend Developer
-# Mern-Stack Developer
-# Jr.Node.js Developer
-💻 I am currentaly working as freelance.
-I'm currently seeking opportunities in the tech industry for full time.
-I'm looking for help with particular roles that allow me to utilize my expertise in MERN Stack development.
-I'm currently Learning REDIS
+💻 Lead React Frontend Developer
+    Mern-Stack Developer
+    Jr.Node.js Developer
+    I am currentaly working as freelance.
+    I'm currently seeking opportunities in the tech industry for full time.
+    I'm looking for help with particular roles that allow me to utilize my expertise in MERN Stack development.
+    I'm currently Learning REDIS
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/tanusingh24) 
