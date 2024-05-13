@@ -6,12 +6,12 @@ About Me :
     I'm currently seeking opportunities in the tech industry for full time.
     I'm looking for help with particular roles that allow me to utilize my expertise in MERN Stack development.
     I'm currently Learning REDIS
-    Some Projects URL
-    https://market.fabwelt.com/
-    https://reflection-gray.vercel.app/
-    https://weather-dashboard-application-m6xc92qio-tanu-singhs-projects.vercel.app/
-    https://solex-network-solutions.vercel.app/
-    https://login-form-eta-liart.vercel.app/
+Some Projects URL:
+   🌐  https://market.fabwelt.com/
+   🌐  https://reflection-gray.vercel.app/
+   🌐  https://weather-dashboard-application-m6xc92qio-tanu-singhs-projects.vercel.app/
+   🌐  https://solex-network-solutions.vercel.app/
+   🌐  https://login-form-eta-liart.vercel.app/
     
 
 ## 🌐 Socials:
